@@ -1,0 +1,16 @@
+.contact-container{
+  padding-top: 1em;
+  .contact-list {
+    margin-left:-1em;
+    li {
+      padding-bottom: 0;
+      list-style: none;
+      a {
+        text-decoration: none;
+        color: #fff;
+        font-size: 1em !important;
+        padding-left:.5em;
+      }
+    }
+  }
+}

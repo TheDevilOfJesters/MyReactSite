@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/threetry.iml" filepath="$PROJECT_DIR$/.idea/threetry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/MyReactSite.iml" filepath="$PROJECT_DIR$/.idea/MyReactSite.iml" />
     </modules>
   </component>
 </project>

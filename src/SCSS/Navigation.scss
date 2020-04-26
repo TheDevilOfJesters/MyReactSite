@@ -1,0 +1,31 @@
+@import "mycolors";
+
+.container{
+  .container a:first-child{
+    margin-right:.2em;
+
+  }
+  .buttonLinks a:first-child{
+    margin-left:.1em;
+  }
+  a{
+    .btn{
+      background: #797880;
+      border-color: #504f57;
+      color: #ffc200;
+    }
+    .btn-primary:not(:disabled):not(.disabled):active{
+      color: green;
+      background-color: black;
+      border-color: red;
+      box-shadow: green;
+    }
+    padding-left:.2em;
+  }
+}
+@media (max-width: 990px) {
+
+  .navbar-nav{
+    padding-top:.475em;
+  }
+}

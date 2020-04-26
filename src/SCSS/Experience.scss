@@ -1,0 +1,27 @@
+.wrapper {
+  .container .expcon {
+    .experiences-section{
+    }
+    .company{
+      margin:0;
+    }
+    .item {
+      padding: 0;
+      margin-bottom: -2em;
+    }
+    .expdev{
+      background-color:green;
+    }
+  }
+}
+
+
+@media (max-width: 990px) {
+  .expcon {
+
+  }
+html body.vsc-initialized div#root div.customCon.container div.wrapper div.container div.row.flex-lg-row-reverse div.col-lg-11 div.main-wrapper div.expcon.container section.section.experiences-section h2.section-title span.icon-holder svg.svg-inline--fa.fa-briefcase.fa-w-16 {
+  transform: translate(0, 20%);
+
+}
+}

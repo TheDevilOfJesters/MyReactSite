@@ -1,0 +1,17 @@
+.interests-list {
+  margin-bottom: .25em;
+  margin-top: .25em;
+  list-style: none;
+  text-align: left;
+  padding-bottom: -1em;
+  padding-left: .5em;
+  li {
+    padding-bottom: .1em;
+    margin-bottom: .1em;
+    margin-top: .1em;
+    &:last-child {
+      margin-bottom: .1em;
+      margin-top: .1em;
+    }
+  }
+}

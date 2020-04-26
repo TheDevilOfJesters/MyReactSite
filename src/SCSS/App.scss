@@ -1,0 +1,15 @@
+@import "mycolors";
+
+//$backgroundColor: white;
+
+
+.customCon{
+  margin-top: 4em;
+}
+
+#root{
+  background:$backgroundColor;
+}
+html{
+  background:$backgroundColor;
+}

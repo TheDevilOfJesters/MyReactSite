@@ -1,0 +1,25 @@
+$textColor: #067ca8;
+$heartColor: #fb0010;
+
+footer {
+  text-align: center;
+  padding-bottom: 2em;
+  font-size: 16px;
+  bottom: 0;
+  vertical-align: bottom;
+}
+.footer {
+  color: $textColor;
+  text-align: center;
+  a {
+    color: $textColor;
+  }
+  .svg-inline--fa{
+    color:$heartColor;
+    font-size: 20px;
+  }
+  a:hover{
+    color:desaturate($textColor, 40%);
+  }
+}
+

@@ -1,0 +1,30 @@
+$mainText:#FFFFFF;
+
+#skills {
+  padding: 0 .5em;
+  text-align: center;
+  h5 {
+    margin-bottom: .65em;
+    font-size: 1.30em;
+    color: $mainText;
+  }
+  ul {
+    margin: 0 auto;
+    padding: 0;
+    max-width: 800px;
+  }
+  li {
+    display: inline-block;
+    margin: 7px;
+    padding: 5px 10px;
+    font-weight: bold;
+    color: $mainText;
+    background: #a80003;
+    list-style: none;
+    cursor: default;
+  }
+}
+//.fa-rocket {
+//  font-size: 20px;
+//  transform: translate(-0.06em, -0.12em) !important;
+//}
