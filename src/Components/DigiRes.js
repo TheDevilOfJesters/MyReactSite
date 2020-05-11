@@ -11,7 +11,6 @@ import 'react-bootstrap/Col'
 const DigiRes = () => {
     return (
         <div className={"wrapper"}>
-
             <Container>
                 <Navigation/>
                 <div className="row flex-lg-row-reverse">

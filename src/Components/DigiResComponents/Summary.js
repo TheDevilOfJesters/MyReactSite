@@ -9,8 +9,7 @@ const Summary = () => {
             <h2 className="section-title">
                         <span className="icon-holder">
                             <FontAwesomeIcon icon={faUser}/>
-                        </span>Career
-                Profile
+                        </span>Career Profile
             </h2>
             <div className="summary">
                 <p className="SummaryParagraph">
